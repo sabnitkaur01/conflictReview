@@ -1,3 +1,2 @@
-# conflictReview
+this is locally modified file.
 
-this is globally modified file..
